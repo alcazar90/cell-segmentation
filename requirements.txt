@@ -1,0 +1,10 @@
+wandb
+numpy
+matplotlib
+PIL
+datasets
+transformers
+torch
+torchvision
+tqdm
+
